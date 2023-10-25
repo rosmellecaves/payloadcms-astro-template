@@ -1,0 +1,11 @@
+{
+  "name": "payloadcms-astro-template",
+  "version": "1.0.0",
+  "description": "This is a template for [Payload CMS](https://payloadcms.com) and [Astro](https://astro.build)\r It is a simple blog template with a few pages and a blog post collection.\r It is fully typed with TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
