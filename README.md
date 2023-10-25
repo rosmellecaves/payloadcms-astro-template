@@ -8,9 +8,10 @@ It is fully typed with TypeScript.
 
 1. Clone this repository
 2. Run `npm install`
-3. set `MONGODB_URI` in `backend/.env` with a MongoDB connection string (run locally or use a service like [MongoDB Atlas](https://www.mongodb.com/cloud/atlas))
-4. Run `cd backend && npm run dev` to start the development server for payload
-5. In another terminal run `cd frontend && npm run dev` to start the development server for astro
+3. Create an `.env` file using touch env
+5. set `MONGODB_URI` and `PAYLOAD_SECRET` in `backend/.env` with a MongoDB connection string (run locally or use a service like [MongoDB Atlas](https://www.mongodb.com/cloud/atlas))
+6. Run `cd backend && npm run dev` to start the development server for payload
+7. In another terminal run `cd frontend && npm run dev` to start the development server for astro
 
 ## Modify the Template
 
